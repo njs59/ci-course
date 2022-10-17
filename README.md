@@ -1,6 +1,6 @@
 [![Run unit tests](https://github.com/njs59/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/njs59/ci-course/actions/workflows/unit-tests.yml)
 [![Run on miltiple OS](https://github.com/njs59/ci-course/actions/workflows/os%20tests.yml/badge.svg)](https://github.com/njs59/ci-course/actions/workflows/os%20tests.yml)
-
+[![BCH compliance](https://bettercodehub.com/edge/badge/njs59/ci-course?branch=main)](https://bettercodehub.com/)
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
