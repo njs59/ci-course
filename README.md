@@ -1,4 +1,5 @@
 [![Run unit tests](https://github.com/njs59/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/njs59/ci-course/actions/workflows/unit-tests.yml)
+[![Run on miltiple OS](https://github.com/njs59/ci-course/actions/workflows/os%20tests.yml/badge.svg)](https://github.com/njs59/ci-course/actions/workflows/os%20tests.yml)
 
 # OxRSE Continuous Integration course
 
